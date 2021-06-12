@@ -20,7 +20,7 @@
     * [Урок 1. Знайомство](soft-skills/kids-8-10-rokiv/urok-1.-znaiomstvo.md)
     * [Урок 2. Світ професій](soft-skills/kids-8-10-rokiv/urok-2.-svit-profesii.md)
     * [Урок 3. Світ IT](soft-skills/kids-8-10-rokiv/urok-3.-svit-it.md)
-    * [Урок 4.](soft-skills/kids-8-10-rokiv/urok-4..md)
+    * [Урок 4. Емоційний інтелект](soft-skills/kids-8-10-rokiv/urok-4..md)
   * [JUNIORS \(10-12 років\)](soft-skills/juniors-10-12-rokiv.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
