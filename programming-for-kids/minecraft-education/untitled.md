@@ -28,9 +28,9 @@
 
 ![](../../.gitbook/assets/put.gif)
 
-Реализуем с помощью данной технологии квадрат из блоков. ![](../../.gitbook/assets/Minecraft%20Education%20Edition6%20%281%29.jpg)
+Реализуем с помощью данной технологии квадрат из блоков. ![](../../.gitbook/assets/Minecraft%20Education%20Edition6%20%281%29%20%281%29.jpg)
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition7%20%281%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition7%20%281%29%20%281%29.jpg)
 
 ![](../../.gitbook/assets/q.gif)
 
@@ -38,21 +38,21 @@
 
 Для этого - возьмем ведро с водой и зальем водой созданный прямоугольник из блоков
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition8%20%281%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition8%20%283%29.jpg)
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition9%20%281%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition9%20%282%29.jpg)
 
-![](../../.gitbook/assets/pull.gif)
+![](../../.gitbook/assets/pull%20%281%29.gif)
 
 ## 1. Базовые команды
 
 Для того, чтобы поставить агента в нужную точку и опеределить ему требуемое направление используются соответствующие команды:
 
 **Телепорт:**  
-![](../../.gitbook/assets/teleport.jpg)
+![](../../.gitbook/assets/teleport%20%281%29.jpg)
 
 **Поворот \(налево\):**  
-![](../../.gitbook/assets/left.jpg)
+![](../../.gitbook/assets/left%20%281%29.jpg)
 
 ## 2. Грядка
 
@@ -78,7 +78,7 @@
 ![](../../.gitbook/assets/ug.jpg)
 
 После того, как земля выкопана - вернемся в точу, из котором мы начинали капать. Для того, чтобы посадить цветы.  
-![](../../.gitbook/assets/b.jpg)
+![](../../.gitbook/assets/b%20%281%29.jpg)
 
 После этого - высадим цветы \(команда **ln**\)
 
