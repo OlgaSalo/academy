@@ -19,7 +19,7 @@
   * [Урок 5. Створення власного сайту на WordpPress](front-end-junior/urok-5.-stvorennya-vlasnogo-saitu-na-wordppress.md)
   * [Урок 6. Розробка макету у Canva](front-end-junior/urok-6.-rozrobka-maketu-u-canva.md)
   * [Урок 7. Віджети у WordPress. Робота з CSS](front-end-junior/urok-7.-vidzheti-u-wordpress.-robota-z-css.md)
-  * [Untitled](front-end-junior/untitled.md)
+  * [Урок 8. Проект + презентація](front-end-junior/untitled.md)
 * [FRONT-END](front-end/README.md)
   * [Урок 1. Що таке Front-end? Вступ до HTML.](front-end/urok-1.-sho-take-front-end.md)
   * [Урок 2. Семантична верстка](front-end/untitled.md)
