@@ -34,9 +34,9 @@
 
 Реализуем с помощью данной технологии квадрат из блоков. 
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition6%20%285%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition6%20%281%29.jpg)
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition7%20%284%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition7%20%281%29.jpg)
 
 ![](../../.gitbook/assets/q.gif)
 
@@ -44,11 +44,11 @@
 
 Для этого - возьмем ведро с водой и зальем водой созданный прямоугольник из блоков
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition8%20%283%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition8%20%283%29%20%281%29.jpg)
 
-![](../../.gitbook/assets/Minecraft%20Education%20Edition9%20%282%29.jpg)
+![](../../.gitbook/assets/Minecraft%20Education%20Edition9%20%282%29%20%281%29.jpg)
 
-![](../../.gitbook/assets/pull%20%281%29.gif)
+![](../../.gitbook/assets/pull.gif)
 
 ## 1. Базовые команды
 
@@ -57,12 +57,12 @@
 **Телепорт:**  
 
 
-![](../../.gitbook/assets/teleport%20%281%29.jpg)
+![](../../.gitbook/assets/teleport%20%281%29%20%281%29.jpg)
 
 **Поворот \(налево\):**  
 
 
-![](../../.gitbook/assets/left%20%281%29.jpg)
+![](../../.gitbook/assets/left%20%281%29%20%281%29.jpg)
 
 ## 2. Грядка
 
@@ -88,7 +88,7 @@
 ![](../../.gitbook/assets/ug.jpg)
 
 После того, как земля выкопана - вернемся в точу, из котором мы начинали капать. Для того, чтобы посадить цветы.  
-![](../../.gitbook/assets/b%20%281%29.jpg)
+![](../../.gitbook/assets/b.jpg)
 
 После этого - высадим цветы \(команда **ln**\)
 

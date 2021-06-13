@@ -1,29 +1,30 @@
 # Урок 4. Піраміда
 
 ## Квадрат
-<img src = "img/Minecraft Education Edition.jpg">
 
-<img src = "img/Minecraft Education Edition_code.jpg">  
+![](../../.gitbook/assets/Minecraft%20Education%20Edition%20%286%29.jpg)
 
-<a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/s.js">Код</a>
+![](../../.gitbook/assets/Minecraft%20Education%20Edition_code.jpg)
+
+[Код](https://github.com/mikh-maksi/minecraft-code/blob/main/s.js)
 
 ## Основа
-<img src = "img/base.jpg">
 
-<img src = "img/base_code.jpg">  
+![](../../.gitbook/assets/base.jpg)
 
-<a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/base.js">Код</a>
+![](../../.gitbook/assets/base_code.jpg)
+
+[Код](https://github.com/mikh-maksi/minecraft-code/blob/main/base.js)
 
 ## Пирамида
-<img src = "img/pir_.jpg">
 
-<img src = "img/pir.jpg">
+![](../../.gitbook/assets/pir_.jpg)
 
-<img src = "img/pir_2.jpg">
+![](../../.gitbook/assets/pir.jpg)
 
-<img src = "img/pir_light.jpg">
+![](../../.gitbook/assets/pir_2.jpg)
 
-<a href = "https://github.com/mikh-maksi/minecraft-code/blob/main/pir.js">Код</a>
- 
+![](../../.gitbook/assets/pir_light.jpg)
 
+[Код](https://github.com/mikh-maksi/minecraft-code/blob/main/pir.js)
 
