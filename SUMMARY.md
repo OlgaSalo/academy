@@ -22,7 +22,7 @@
   * [Урок 8. Проект + презентація](front-end-junior/untitled.md)
 * [FRONT-END](front-end/README.md)
   * [Урок 1. Що таке Front-end? Вступ до HTML.](front-end/urok-1.-sho-take-front-end.md)
-  * [Урок 2. Семантична верстка](front-end/untitled.md)
+  * [Урок 2. Семантична верстка](front-end/urok-2.-semantychna-verstka.md)
   * [Урок 3. Блочні та рядкові теги. Основні групи тегів.](front-end/urok-3.-blochni-ta-ryadkovi-tegi.-osnovni-grupi-tegiv..md)
   * [Урок 4. Що таке CSS. Способи використання стилів. CSS-селектори.](front-end/urok-4.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
   * [Урок 5. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-5.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
