@@ -38,6 +38,7 @@
     * [Урок 3. Світ IT](soft-skills/kids-8-10-rokiv/urok-3.-svit-it.md)
     * [Урок 4. Емоційний інтелект](soft-skills/kids-8-10-rokiv/urok-4..md)
     * [Урок 5. Емоційний інтелект \(продовження\)](soft-skills/kids-8-10-rokiv/urok-5.-emociinii-intelekt-prodovzhennya.md)
+    * [Урок 6.](soft-skills/kids-8-10-rokiv/urok-6..md)
   * [JUNIORS \(10-12 років\)](soft-skills/juniors-10-12-rokiv.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
