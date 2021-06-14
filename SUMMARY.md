@@ -26,7 +26,7 @@
   * [Урок 3. Блочні та рядкові теги. Основні групи тегів.](front-end/urok-3.-blochni-ta-ryadkovi-tegi.-osnovni-grupi-tegiv..md)
   * [Урок 4. Що таке CSS. Способи використання стилів. CSS-селектори.](front-end/urok-4.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
   * [Урок 5. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-5.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
-  * [Урок 6. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-6.-urok-6.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
+  * [Урок 6. Структурні псевдоелементи. Одиниці вимірювання. Background.](front-end/urok-6.-urok-6.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
 * [PYTHON](python.md)
 * [GAMEDEV](gamedev.md)
 * [ROBLOX](roblox.md)
