@@ -26,7 +26,7 @@
   * [Урок 3. Блочні та рядкові теги. Основні групи тегів.](front-end/urok-3.-blochni-ta-ryadkovi-tegi.-osnovni-grupi-tegiv..md)
   * [Урок 4. Що таке CSS. Способи використання стилів. CSS-селектори.](front-end/urok-4.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
   * [Урок 5. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-5.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
-  * [Урок 6. Урок 6. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-6.-urok-6.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
+  * [Урок 6. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-6.-urok-6.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
 * [PYTHON](python.md)
 * [GAMEDEV](gamedev.md)
 * [ROBLOX](roblox.md)
@@ -38,7 +38,7 @@
     * [Урок 3. Світ IT](soft-skills/kids-8-10-rokiv/urok-3.-svit-it.md)
     * [Урок 4. Емоційний інтелект](soft-skills/kids-8-10-rokiv/urok-4..md)
     * [Урок 5. Емоційний інтелект \(продовження\)](soft-skills/kids-8-10-rokiv/urok-5.-emociinii-intelekt-prodovzhennya.md)
-    * [Урок 6.](soft-skills/kids-8-10-rokiv/urok-6..md)
+    * [Урок 6.Емоційний інтелект \(закріплення\)](soft-skills/kids-8-10-rokiv/urok-6..md)
   * [JUNIORS \(10-12 років\)](soft-skills/juniors-10-12-rokiv.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
