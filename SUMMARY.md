@@ -33,6 +33,7 @@
 * [DESIGN](design.md)
 * [SOFT SKILLS](soft-skills/README.md)
   * [KIDS \(8-10 років\)](soft-skills/kids-8-10-rokiv/README.md)
+    * [Untitled](soft-skills/kids-8-10-rokiv/untitled.md)
     * [Урок 1. Знайомство](soft-skills/kids-8-10-rokiv/urok-1.-znaiomstvo.md)
     * [Урок 2. Світ професій](soft-skills/kids-8-10-rokiv/urok-2.-svit-profesii.md)
     * [Урок 3. Світ IT](soft-skills/kids-8-10-rokiv/urok-3.-svit-it.md)
