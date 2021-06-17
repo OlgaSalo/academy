@@ -46,7 +46,7 @@
 
 ![](../../.gitbook/assets/road10.jpg)
 
-![](../../.gitbook/assets/road10_%20%281%29.jpg)
+![](../../.gitbook/assets/road10_%20%281%29%20%281%29.jpg)
 
 ![](../../.gitbook/assets/road_num.jpg)
 
@@ -55,5 +55,5 @@
 В результате - получим соответствующую дорогу, на которой лежат блоки с землей.  
 
 
-![](../../.gitbook/assets/road10_.jpg)
+![](../../.gitbook/assets/road10_%20%281%29.jpg)
 
