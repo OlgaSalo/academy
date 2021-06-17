@@ -41,6 +41,12 @@
     * [Урок 4. Емоційний інтелект](soft-skills/kids-8-10-rokiv/urok-4..md)
     * [Урок 5. Емоційний інтелект \(продовження\)](soft-skills/kids-8-10-rokiv/urok-5.-emociinii-intelekt-prodovzhennya.md)
     * [Урок 6.Емоційний інтелект \(закріплення\)](soft-skills/kids-8-10-rokiv/urok-6..md)
-  * [JUNIORS \(10-12 років\)](soft-skills/juniors-10-12-rokiv.md)
+    * [Untitled](soft-skills/kids-8-10-rokiv/untitled.md)
+  * [JUNIORS \(10-12 років\)](soft-skills/juniors-10-12-rokiv/README.md)
+    * [Урок 1. Знайомство](soft-skills/juniors-10-12-rokiv/urok-1.-znaiomstvo.md)
+    * [Урок 2. З чого складається професія](soft-skills/juniors-10-12-rokiv/urok-2.-z-chogo-skladayetsya-profesiya.md)
+    * [Урок 3. Світ ІТ](soft-skills/juniors-10-12-rokiv/urok-3.-svit-it.md)
+    * [Урок 4. Світ IT \(закріплення\)](soft-skills/juniors-10-12-rokiv/urok-4.-svit-it-zakriplennya.md)
+    * [Урок 5. Емоції, настрій, відчуття, почуття](soft-skills/juniors-10-12-rokiv/urok-5.-emociyi-nastrii-vidchuttya-pochuttya.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
