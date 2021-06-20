@@ -51,5 +51,6 @@
     * [Урок 6. Внутрішній спокій](soft-skills/juniors-10-12-rokiv/urok-6.-vnutrishnii-spokii.md)
     * [Урок 7. Емоційний інтелект](soft-skills/juniors-10-12-rokiv/urok-7.-emociinii-intelekt.md)
     * [Урок 8. Емоційний розвиток \(закріплення\)](soft-skills/juniors-10-12-rokiv/urok-8.-emociinii-rozvitok-zakriplennya.md)
+    * [Урок 9. Філософія "Так І", Прийняття рішень](soft-skills/juniors-10-12-rokiv/urok-9.-filosofiya-tak-i-priinyattya-rishen.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
