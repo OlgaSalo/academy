@@ -49,5 +49,6 @@
     * [Урок 4. Світ IT \(закріплення\)](soft-skills/juniors-10-12-rokiv/urok-4.-svit-it-zakriplennya.md)
     * [Урок 5. Емоції, настрій, відчуття, почуття](soft-skills/juniors-10-12-rokiv/urok-5.-emociyi-nastrii-vidchuttya-pochuttya.md)
     * [Урок 6. Внутрішній спокій](soft-skills/juniors-10-12-rokiv/urok-6.-vnutrishnii-spokii.md)
+    * [Урок 7. Емоційний інтелект](soft-skills/juniors-10-12-rokiv/urok-7.-emociinii-intelekt.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
