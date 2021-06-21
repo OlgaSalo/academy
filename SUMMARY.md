@@ -52,5 +52,9 @@
     * [Урок 7. Емоційний інтелект](soft-skills/juniors-10-12-rokiv/urok-7.-emociinii-intelekt.md)
     * [Урок 8. Емоційний розвиток \(закріплення\)](soft-skills/juniors-10-12-rokiv/urok-8.-emociinii-rozvitok-zakriplennya.md)
     * [Урок 9. Філософія "Так І", Прийняття рішень](soft-skills/juniors-10-12-rokiv/urok-9.-filosofiya-tak-i-priinyattya-rishen.md)
+    * [Урок 10. Чого я хочу](soft-skills/juniors-10-12-rokiv/urok-10.-chogo-ya-khochu.md)
+    * [Урок 11. Мрії та цілі](soft-skills/juniors-10-12-rokiv/urok-11.-mriyi-ta-cili.md)
+    * [Урок 12. Креатив як навичка](soft-skills/juniors-10-12-rokiv/urok-12.-kreativ-yak-navichka.md)
+    * [Урок 13. Закріплення](soft-skills/juniors-10-12-rokiv/urok-13.-zakriplennya.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
 
