@@ -4,6 +4,7 @@
 * [PROGRAMMING FOR KIDS](programming-for-kids/README.md)
   * [SCRATCH](programming-for-kids/scratch/README.md)
     * [Урок 1. Знайомство зі Scratch](programming-for-kids/scratch/urok-1.-znaiomstvo-zi-scratch.md)
+    * [Урок 2. Переміщення предметів](programming-for-kids/scratch/urok-2.-peremishennya-predmetiv.md)
   * [MINECRAFT: EDUCATION](programming-for-kids/minecraft-education/README.md)
     * [Урок 1. Знайомство з Minecraft: Education](programming-for-kids/minecraft-education/urok-1.-znaiomstvo-z-minecraft-education.md)
     * [Урок 2. Сад](programming-for-kids/minecraft-education/untitled.md)
