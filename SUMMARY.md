@@ -67,5 +67,7 @@
     * [Урок 11. Мрії та цілі](soft-skills/juniors-10-12-rokiv/urok-11.-mriyi-ta-cili.md)
     * [Урок 12. Креатив як навичка](soft-skills/juniors-10-12-rokiv/urok-12.-kreativ-yak-navichka.md)
     * [Урок 13. Закріплення](soft-skills/juniors-10-12-rokiv/urok-13.-zakriplennya.md)
-  * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv.md)
+  * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv/README.md)
+    * [Урок 1. Емоційний інтелект](soft-skills/teens-13-15-rokiv/urok-1.-emociinii-intelekt.md)
+    * [Untitled](soft-skills/teens-13-15-rokiv/untitled-1.md)
 
