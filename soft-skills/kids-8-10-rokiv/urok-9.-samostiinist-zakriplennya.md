@@ -4,7 +4,7 @@
 
 ### **Презентація для заняття:**
 
-{% file src="../../.gitbook/assets/urok-9.-samostiinist-zakriplennya-.pptx" %}
+{% file src="../../.gitbook/assets/urok-9.-samostiinist-zakriplennya-.pptx" caption="Урок 9. Самостійність \(закріплення\)" %}
 
 ### Привітання **і перевірка завдання** \(10 хв\)
 
