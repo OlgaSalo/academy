@@ -15,6 +15,8 @@
     * [Урок 6. Ліхтарі вздовж дороги](programming-for-kids/minecraft-education/urok-6.-likhtari-vzdovzh-dorogi.md)
     * [Урок 7. Розмітка дороги](programming-for-kids/minecraft-education/urok-7.-rozmitka-dorogi.md)
     * [Урок 8. Координати](programming-for-kids/minecraft-education/urok-8.-koordinati.md)
+    * [Урок 9. Побудова куба із дерева](programming-for-kids/minecraft-education/urok-9.-pobudova-kuba-iz-dereva.md)
+    * [Урок 10. Побудова і внутрішня частина](programming-for-kids/minecraft-education/urok-10.-pobudova-i-vnutrishnya-chastina.md)
 * [FRONT-END JUNIOR](front-end-junior/README.md)
   * [Урок 1. Знайомство з сайтами-конструкторами](front-end-junior/urok-1.-znaiomstvo-z-saitami-konstruktorami.md)
   * [Урок 2. Персональний сайт](front-end-junior/urok-2.-personalnii-sait.md)
