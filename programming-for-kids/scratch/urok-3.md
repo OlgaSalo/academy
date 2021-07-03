@@ -14,11 +14,11 @@
 
 ### Танець **\(**30-40 хв\)
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ### Анімація малюнку \(10 хв\)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 
 

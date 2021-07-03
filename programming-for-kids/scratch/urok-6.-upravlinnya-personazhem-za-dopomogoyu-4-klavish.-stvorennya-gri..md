@@ -16,9 +16,9 @@
 
 ### Написання коду \(30 хв**\)**
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 ### **Домашнє завдання:**
 
