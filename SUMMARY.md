@@ -11,7 +11,7 @@
     * [Урок 6. Управління персонажем за допомогою 4 клавіш. Створення гри.](programming-for-kids/scratch/urok-6.-upravlinnya-personazhem-za-dopomogoyu-4-klavish.-stvorennya-gri..md)
     * [Урок 9. Використання олівця. Побудова простих геометричних фігур. Цикл](programming-for-kids/scratch/urok-9.-vikoristannya-olivcya.-pobudova-prostikh-geometrichnikh-figur.-cikl.md)
     * [Урок 10. Написання складних зображень за допомогою координат та кутів.](programming-for-kids/scratch/urok-10.-napisannya-skladnikh-zobrazhen-za-dopomogoyu-koordinat-ta-kutiv..md)
-    * [Untitled](programming-for-kids/scratch/untitled-2.md)
+    * [Урок 11. Оператори. Вирази і задачі.](programming-for-kids/scratch/untitled-2.md)
   * [MINECRAFT: EDUCATION](programming-for-kids/minecraft-education/README.md)
     * [Урок 1. Знайомство з Minecraft: Education](programming-for-kids/minecraft-education/urok-1.-znaiomstvo-z-minecraft-education.md)
     * [Урок 2. Сад](programming-for-kids/minecraft-education/untitled.md)
