@@ -4,7 +4,7 @@
 
 ### Презентація до заняття:
 
-{% file src="../../.gitbook/assets/urok-18.-zakriplennya.pptx" %}
+{% file src="../../.gitbook/assets/urok-18.-zakriplennya.pptx" caption="Урок 18. Відношення до себе \(закріплення\)" %}
 
 ### Привітання \(5 хв\)
 
