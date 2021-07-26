@@ -51,6 +51,7 @@
     * [Вступ. Що таке Python?](python/python-basics/vstup.-sho-take-python.md)
     * [Урок 2. Основи мови – змінні та вирази](python/python-basics/urok-2.-osnovi-movi-zminni-ta-virazi.md)
     * [Урок 3. – Умовні оператори](python/python-basics/urok-3.-umovni-operatori.md)
+    * [Урок 4. – Цикли](python/python-basics/urok-4.-cikli.md)
   * [Python:Data Science](python/python-data-science.md)
 * [GAMEDEV](gamedev.md)
 * [ROBLOX](roblox.md)
