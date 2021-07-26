@@ -42,7 +42,7 @@
 5. далее ставится `:`;
 6. и с новой строки с отступом идёт набор выражений, которые будут повторятся на каждой итерации
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 {% embed url="https://www.learnbyexample.org/python-for-loop/" %}
 
@@ -113,7 +113,7 @@ for x in range(7):
 
 ### Вкладені цикли
 
-![](../../.gitbook/assets/image%20%2884%29.png)
+![](../../.gitbook/assets/image%20%2885%29.png)
 
 ### Практична робота
 
@@ -150,7 +150,7 @@ while a <= 5:
     a = a + 1
 ```
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
 ### Практична робота
 
