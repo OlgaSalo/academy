@@ -178,5 +178,5 @@
 2. Створити маркований список із 5 пунктів. В списку перелічи рядкові HTML-елементи
 3. Написати та відформатувати фрагмент тексту за зразком \(на фото нижче\), використовуючи тільки теги. **No css!**
 
-![](https://github.com/oleksandrakravtsova/academy/tree/48fc537304d5a2ece7851dae435167c84dc217d2/front-end/.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
