@@ -134,6 +134,9 @@
     * [Урок 28. Ефективність навчання \(закріплення\)](soft-skills/juniors-10-12-rokiv/urok-28.-efektivnist-navchannya-zakriplennya.md)
     * [Урок 29. Закріплення курсу](soft-skills/juniors-10-12-rokiv/urok-29.-zakriplennya-kursu.md)
   * [TEENS \(13-15 років\)](soft-skills/teens-13-15-rokiv/README.md)
+    * [Урок 1. Знайомство з Soft Skills](soft-skills/teens-13-15-rokiv/untitled-1.md)
+    * [Урок 2. Самопрезентація](soft-skills/teens-13-15-rokiv/urok-2.-samoprezentaciya.md)
+    * [Урок 3. Інтелект-карти \(MIND MAP\)](soft-skills/teens-13-15-rokiv/urok-3.-intelekt-karti-mind-map.md)
+    * [Урок 4. Супер пам'ять!](soft-skills/teens-13-15-rokiv/urok-4.-super-pamyat.md)
     * [Урок 1. Емоційний інтелект](soft-skills/teens-13-15-rokiv/urok-1.-emociinii-intelekt.md)
-    * [Untitled](soft-skills/teens-13-15-rokiv/untitled-1.md)
 
