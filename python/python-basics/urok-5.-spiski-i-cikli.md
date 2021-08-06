@@ -69,15 +69,61 @@ You can convert other data types to lists using Python’s [list\(\)](https://ww
 
 В Python синтаксис доступа по индексу выглядит так:
 
-**some\_iterable = \["a", "b", "c"\]**
+`some_iterable = ["a", "b", "c"]`
 
-first\_letter = some\_iterable\[0\]
+`first_letter = some_iterable[0]`
 
-middle\_one = some\_iterable\[1\]
+`middle_one = some_iterable[1]`
 
-last\_letter = some\_iterable\[2\]
+`last_letter = some_iterable[2]`
 
 В первой строке мы создали список из трёх первых букв английского алфавита.
 
-Во второй стоке мы сохранили в переменную first\_letter букву "a", первый элемент some\_iterable.
+Во второй стоке мы сохранили в переменную `first_letter` букву `"a"`, первый элемент `some_iterable`.
+
+**Индекс** в Python начинается с `0`, как и в большинстве языков программирования и индексом `"a"` есть `0`.
+
+Третья строка — это обращение ко второму элементу `some_iterable`, его индекс равен 1 — это буква `"b"` и мы сохраняем её в `middle_one`. Четвертая строка — это обращение к последнему элементу `some_iterable`, букве `"c"`, мы сохраним её в `last_letter` и её индекс равен 2.
+
+Python поддерживает индексирование элементов с конца. Для этого надо добавить - и указать номер элемента с конца. Поскольку в Python `-0 == 0`, то первый элемент с конца — это -1, второй — -2 и так далее. Наш пример можно переписать используя индексирование с конца вот так:
+
+`some_iterable = ["a", "b", "c"]`
+
+`first_letter = some_iterable[-3]`
+
+`middle_one = some_iterable[-2]`
+
+`last_letter = some_iterable[-1]`
+
+### Access Nested List Items
+
+Similarly, you can access individual items in a nested list using multiple indexes. The first index determines which list to use, and the second indicates the value within that list.
+
+The indexes for the items in a nested list are illustrated as below:
+
+![](../../.gitbook/assets/image%20%28140%29.png)
+
+```text
+L = ['a', 'b', ['cc', 'dd', ['eee', 'fff']], 'g', 'h']
+
+print(L[2][2])
+# Prints ['eee', 'fff']
+
+print(L[2][2][0])
+# Prints eee
+```
+
+### Использование методов объектов
+
+Объект в программировании — некоторая сущность в цифровом пространстве, обладающая определённым состоянием и поведением, имеющая определённые свойства \(атрибуты\) и операции над ними \(методы\).
+
+Доступ к методам объектов в Python синтаксически происходит с помощью символа точки после имени объекта и указания имени метода или атрибута к которому нужно получить доступ.
+
+```text
+numbers = ['a', 'b']
+numbers.append('c')
+print(numbers)  # ['a', 'b', 'c']
+```
+
+В этом примере мы использовали метод append, который есть у списков и он есть у списка numbers. Этот метод добавляет новый элемент в конец списка. В качестве аргумента этот метод получает элемент, который надо добавить в список. Аргументы указываются в скобках.
 
