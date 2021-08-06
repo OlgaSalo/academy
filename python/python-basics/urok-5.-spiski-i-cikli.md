@@ -245,5 +245,116 @@ chars = ['a', 'b']
 print(len(chars)) # 2
 ```
 
+Check if item exists in a list
 
+To determine whether a value is or isn’t in a list, you can use in and not in operators with [if statement](https://www.learnbyexample.org/python-if-else-elif-statement/).
+
+```text
+chars = ['a', 'b']
+if 'a' in chars:
+    print('yes')
+	
+if 'www' not in chars:
+    print('no')
+```
+
+**Iterate through a List**
+
+The most common way to iterate through a list is with a [for loop](https://www.learnbyexample.org/python-for-loop/).
+
+```text
+chars = ['a', 'b', 'c']
+ 
+for item in chars:
+	print(item)
+```
+
+### **Практична робота**
+
+Уявимо, що ми розробляємо інформаційну систему продуктового магазину, яка має виконувати наступні функції
+
+* Показ всіх наявних товарів \(виведення елементів списку\)
+* Постачання нових товарів \(додавання елементів, об’єднання списків\)
+* Продаж товарів \(пошук елементу списку і видалення його\)
+* Заміна проданих продуктів на нові \(вставка елементу\)
+* Виведення списку проданих продуктів за день
+* Показати історію продажів \(виведення списку в зворотньому порядку\)
+
+```text
+products = ['Апельсин', 'Банан']
+products_sold = list()
+ 
+print('Продукти в наявності:')
+number = 1
+for product in products:
+	print(number, product)
+	number +=1
+ 
+ 
+print('Постачання продуктів')
+print('Введіть назву продукту або 0 для виходу')
+while True:
+	product = input()
+	
+	if product == '0' :
+    	break
+	else:
+    	products.append(product)
+ 
+products_new = ['Картопля', 'Цибуля']
+products.extend(products_new)
+ 
+ 
+print('Продукти в наявності:')
+number = 1
+for product in products:
+	print(number, product)
+	number +=1
+print('Продаж продуктів за назвою:')
+print('Введіть назву продукту, який бажаєте купити')
+product = input()
+if product in products:
+	# видаляємо - продано, більше немає
+    products.remove(product)
+    products_sold.append(product)
+	print('Дякуємо за покупку')
+else:
+    print('Вказаного продукту немає в наявності')
+	
+ 
+print('Продаж продуктів за номером:')
+print('Введіть номер продукту, який бажаєте купити')
+product_index = int(input())
+if 0 <= product_index < len(products):
+	# видалямо - це продано, більше немає
+	product = products.pop(product_index)
+    products_sold.append(product)
+	print('Ви купили', product)
+	print('Дякуємо за покупку')
+else:
+    print('Неправильно вказаний номер')   
+	
+ 
+print('Оновлення продукту:')
+product_index = products.index('Картопля')
+products.insert(product_index, 'Картопля молода')
+	
+print('Продукти на кіцець дня:')
+number = 1
+for product in products:
+    print(number, product)
+    number +=1
+   
+	
+print('Продукти продані за день:')
+products_sold.reverse()
+ 
+for product in products_sold:
+    print(product)
+```
+
+### **Домашня робота**
+
+* Створити список материків західної півкулі. Доповнити список материками зі східної півкулі. Відсортувати материки за алфавітом і вивести на екран
+* Створити список, елементами якого є інші списки, що містять інформацію про ім’я та прізвище студентів. Порахувати скільки людей мають ім’я «Андрій»
 
