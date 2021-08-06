@@ -65,6 +65,7 @@
     * [Урок 2. Основи мови – змінні та вирази](python/python-basics/urok-2.-osnovi-movi-zminni-ta-virazi.md)
     * [Урок 3. – Умовні оператори](python/python-basics/urok-3.-umovni-operatori.md)
     * [Урок 4. – Цикли](python/python-basics/urok-4.-cikli.md)
+    * [Урок 5. – Списки і цикли](python/python-basics/urok-5.-spiski-i-cikli.md)
   * [Python:Data Science](python/python-data-science/README.md)
     * [Урок 1: Дерево прийняття рішень \(decision tree\)](python/python-data-science/urok-1-derevo-priinyattya-rishen-decision-tree.md)
     * [Урок 2: Ваша перша модель Машинного Навчання](python/python-data-science/urok-2-vasha-persha-model-mashinnogo-navchannya.md)
