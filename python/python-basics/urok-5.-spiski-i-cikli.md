@@ -125,5 +125,125 @@ numbers.append('c')
 print(numbers)  # ['a', 'b', 'c']
 ```
 
-В этом примере мы использовали метод append, который есть у списков и он есть у списка numbers. Этот метод добавляет новый элемент в конец списка. В качестве аргумента этот метод получает элемент, который надо добавить в список. Аргументы указываются в скобках.
+В этом примере мы использовали метод append, который есть у списков и он есть у списка `numbers`. Этот метод добавляет новый элемент в конец списка. В качестве аргумента этот метод получает элемент, который надо добавить в список. Аргументы указываются в скобках.
+
+Если метод не требует аргументов \(например метод clear\), то скобки будут пустыми:
+
+```text
+num = [1, 2]
+num.clear()
+print(num)  # []
+```
+
+### Методы списков
+
+Добавление элемента в конец списка: `my_list.append(element)`
+
+```text
+chars = ['a', 'b']
+chars.append('c')
+print(chars)  # ['a', 'b', 'c']
+```
+
+удаление элемента из списка, вызовет ошибку если такого элемента нет в списке: `my_list.remove(element)`
+
+```text
+chars = ['a', 'b']
+chars.remove('b')
+print(chars)  # ['a']
+```
+
+But keep in mind that if more than one instance of the given item is present in the list, then this method removes only the first instance.
+
+Вернуть i-ый элемент и удалить его из списка i\_element = my\_list.pop\(i\). По-умолчанию i = -1
+
+```text
+chars = ['a', 'b']
+last = chars.pop(1)
+print(chars)  # ['a']
+print(last)  # 'b'
+```
+
+If you don’t need the removed value, use the del statement.
+
+```text
+chars = ['a', 'b']
+del chars[1]
+print(chars)  # ['a']
+```
+
+Расширить список a\_list элементами из b\_list: a\_list.extend\(b\_list\)
+
+```text
+chars = ['a', 'b']
+numbers = [1, 2]
+ 
+chars.extend(numbers)
+print(chars)  # ['a', 'b', 1, 2]
+```
+
+Вставить x на на позицию с индексом i: my\_list.insert\(i, x\)
+
+```text
+chars = ["a", "b"]
+chars.insert(1, "c")
+print(chars)  # ['a', 'c', 'b']
+```
+
+Очистить список: my\_list.clear\(\)
+
+```text
+chars = ['a', 'b']
+last =  chars.clear() print(chars) # []
+```
+
+Найти индекс первого элемента в списке равного x: index = my\_list.index\(x\)
+
+```text
+chars = ['a', 'b', 'c', 'd']
+c_ind = chars.index('c') print(c_ind) #2
+```
+
+Вернуть количество элементов в списке равных x: x\_number = my\_list.count\(x\)
+
+```text
+chars = ['a', 'b', 'c', 'a']
+a_count = chars.count('a')
+print(a_count) # 2
+```
+
+Отсортировать список по возрастанию: my\_list.sort\(key=None, reverse=False\)
+
+```text
+chars = ['z', 'a', 'b']
+chars.sort()
+print(chars) # ['a', 'b', 'z']
+```
+
+Поменять порядок элементов в списке на обратный: my\_list.reverse\(\)
+
+```text
+chars = ['a', 'b']
+chars.reverse()
+print(chars) # ['b', 'a']
+```
+
+Вернуть копию списка: copy\_of\_my\_list = my\_list.copy\(\)
+
+```text
+chars =  ['a', 'b']
+chars_copy = chars.copy()
+chars == chars_copy # True
+```
+
+Find List Length
+
+To find the number of items in a list, use len\(\) method.
+
+```text
+chars = ['a', 'b']
+print(len(chars)) # 2
+```
+
+
 
