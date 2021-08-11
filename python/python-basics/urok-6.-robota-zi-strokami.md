@@ -1,8 +1,6 @@
 # Урок 6. – Робота зі строками
 
-### A segment of a string is called a slice and you can extract one by using a slice operator. A slice of a string is also a string.
-
-The slice operator \[n:m\] returns the part of the string from the “n-th” item to the “m-th” item, including the first but excluding the last.Мета заняття:
+### Мета заняття:
 
 Отримати знання стосовно строк, їх структури, вбудованих функцій для їх обробки.
 
