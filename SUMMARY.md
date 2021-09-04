@@ -70,6 +70,7 @@
     * [Урок 7.  –  Зрізи та множини](python/python-basics/urok-7.-zrizi-ta-mnozhini.md)
     * [Урок 8.  –  Словники](python/python-basics/urok-8.-slovniki.md)
     * [Урок 9.  –  Колекції](python/python-basics/urok-9.-kolekciyi.md)
+    * [Урок 10.  –  Функції](python/python-basics/urok-10.-funkciyi.md)
   * [Python:Data Science](python/python-data-science/README.md)
     * [Урок 1: Дерево прийняття рішень \(decision tree\)](python/python-data-science/urok-1-derevo-priinyattya-rishen-decision-tree.md)
     * [Урок 2: Ваша перша модель Машинного Навчання](python/python-data-science/urok-2-vasha-persha-model-mashinnogo-navchannya.md)
