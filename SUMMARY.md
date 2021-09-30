@@ -48,6 +48,7 @@
   * [Урок 06. Що таке CSS. Способи використання стилів. CSS-селектори.](front-end/urok-06.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
   * [Урок 07. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-07.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
   * [Урок 08. Текст. Стилі для форматування тексту. Шрифти.](front-end/urok-08.-tekst.-stili-dlya-formatuvannya-tekstu.-shrifti..md)
+  * [Урок 09. Практика \(Основи CSS\)](front-end/urok-09.-praktika-osnovi-css.md)
   * [Урок 7. Структурні псевдоелементи. Одиниці вимірювання. Background.](front-end/urok-6.-urok-6.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
   * [Урок 8. Текст. Стилі для форматування тексту. Шрифти.](front-end/urok-8.-tekst.-stili-dlya-formatuvannya-tekstu.-shrifti..md)
   * [Урок 9. Вбудовані стилі браузерів. CSS Reset. Властивості box-sizing та display.](front-end/urok-9.-vbudovani-stili-brauzeriv.-css-reset.-vlastivosti-box-sizing-ta-display..md)
