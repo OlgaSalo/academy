@@ -65,6 +65,7 @@
   * [Урок 23. Mobile first верстка](front-end/urok-23.-mobile-first-verstka.md)
   * [Урок 24. Adaptive \(практика\)](front-end/urok-24.-adaptive-praktika.md)
   * [Урок 25. Bootstrap - установка та розмітка](front-end/urok-25.-bootstrap-ustanovka-ta-rozmitka.md)
+  * [Урок 27. Bootstrap - компоненти](front-end/urok-27.-bootstrap-komponenti.md)
   * [Урок 17. Верстка мобільного меню](front-end/urok-17.-verstka-mobilnogo-menyu.md)
 * [PYTHON](python/README.md)
   * [Python:Basics](python/python-basics/README.md)
