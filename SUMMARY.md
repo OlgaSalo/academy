@@ -44,7 +44,7 @@
   * [Урок 02. Блочні та рядкові теги. Основні групи тегів.](front-end/urok-02.-blochni-ta-ryadkovi-tegi.-osnovni-grupi-tegiv..md)
   * [Урок 03. Семантична верстка](front-end/urok-03.-semantychna-verstka.md)
   * [Урок 04. Практика \(HTML теги\)](front-end/urok-04.-praktika-html-tegi.md)
-  * [Урок 4. Система контролю версій Git. Сервіс GitHub.](front-end/urok-4.-sistema-kontrolyu-versii-git.-servis-github..md)
+  * [Урок 05. Система контролю версій Git. Сервіс GitHub.](front-end/urok-05.-sistema-kontrolyu-versii-git.-servis-github..md)
   * [Урок 5. Що таке CSS. Способи використання стилів. CSS-селектори.](front-end/urok-4.-sho-take-css.-sposobi-vikoristannya-stiliv.-css-selektori..md)
   * [Урок 6. Каскад. Ієрархія. Наслідування. Псевдокласи.](front-end/urok-5.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
   * [Урок 7. Структурні псевдоелементи. Одиниці вимірювання. Background.](front-end/urok-6.-urok-6.-kaskad.-iyerarkhiya.-nasliduvannya.-psevdoklasi..md)
