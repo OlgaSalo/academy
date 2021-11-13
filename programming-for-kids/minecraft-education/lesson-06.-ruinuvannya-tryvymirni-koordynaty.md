@@ -1,0 +1,93 @@
+# Урок 06. Руйнування. Тривимірні координати
+
+* Тривимірні координати
+* Побудова стін, паралелепіпедів, піраміди&#x20;
+* Цикли
+
+#### МегаСтрибок з використанням координат
+
+![](<../../.gitbook/assets/image (218).png>)
+
+#### Падіння героя
+
+![](<../../.gitbook/assets/image (153).png>)
+
+#### Координати
+
+В одну лінію за гравцем
+
+![](<../../.gitbook/assets/image (152).png>)
+
+#### Блоки для заповнення
+
+![](<../../.gitbook/assets/image (214).png>)
+
+#### Побудова стіни
+
+![](<../../.gitbook/assets/image (223).png>)
+
+![](<../../.gitbook/assets/image (168).png>)
+
+![](<../../.gitbook/assets/image (162).png>)
+
+![](<../../.gitbook/assets/image (207).png>)
+
+![](<../../.gitbook/assets/image (213).png>)
+
+![](<../../.gitbook/assets/image (178).png>)
+
+#### Повний паралелепіпед
+
+Всередині заповнений блоками
+
+![](<../../.gitbook/assets/image (192).png>)
+
+#### Будуємо піраміду
+
+![](<../../.gitbook/assets/image (221).png>)
+
+![](<../../.gitbook/assets/image (177).png>)
+
+#### Далі піраміда
+
+![](<../../.gitbook/assets/image (163).png>)
+
+![](<../../.gitbook/assets/image (187).png>)
+
+#### Три шари
+
+![](<../../.gitbook/assets/image (159).png>)
+
+![](<../../.gitbook/assets/image (167).png>)
+
+#### 5 шарів і телепортуємось на вершину
+
+![](<../../.gitbook/assets/image (181).png>)
+
+![](<../../.gitbook/assets/image (222).png>)
+
+#### Готова піраміда
+
+![](<../../.gitbook/assets/image (182).png>)
+
+![](<../../.gitbook/assets/image (156).png>)
+
+![](<../../.gitbook/assets/image (158).png>)
+
+#### Кахут:
+
+{% embed url="https://create.kahoot.it/share/minecraft-6/e4a8b8ae-a9ab-4cd8-a816-30ef23c6f62b" %}
+\\
+{% endembed %}
+
+#### Домашнє завдання:
+
+Побудувати ціле місто з “висотними будинками” через код з тривимірними координатами
+
+![](<../../.gitbook/assets/image (184).png>)
+
+#### Відповідь (для викладача):
+
+![](<../../.gitbook/assets/image (198).png>)
+
+![](<../../.gitbook/assets/image (190).png>)

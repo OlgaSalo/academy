@@ -6,55 +6,55 @@
 
 #### Завдання: запрограмувати Агента на саджання такого саду:
 
-![](<../../.gitbook/assets/image (180).png>)
+![](<../../.gitbook/assets/image (212).png>)
 
 #### Відповідь:
 
-![](<../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image (216).png>)
 
 #### Завдання: запрограмувати Агента на саджання такого саду:
 
 Та удосконалити попередню програму
 
-![](<../../.gitbook/assets/image (174).png>)
+![](<../../.gitbook/assets/image (202).png>)
 
 **Відповідь:**
 
-![](<../../.gitbook/assets/image (183).png>)
+![](<../../.gitbook/assets/image (219).png>)
 
-![](<../../.gitbook/assets/image (161).png>)
+![](<../../.gitbook/assets/image (183).png>)
 
 #### Завдання: запрограмувати Агента на саджання такого саду:
 
 Вдруге удосконалити попередню програму
 
-![](<../../.gitbook/assets/image (156).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 #### Відповідь:
 
 Дописати код
 
-![](<../../.gitbook/assets/image (182).png>)
+![](<../../.gitbook/assets/image (217).png>)
 
-![](<../../.gitbook/assets/image (149).png>)
+![](<../../.gitbook/assets/image (151).png>)
 
 #### Обробка поля
 
 Сіємо кавуни
 
-![](<../../.gitbook/assets/image (155).png>)
+![](<../../.gitbook/assets/image (170).png>)
 
-![](<../../.gitbook/assets/image (179).png>)
+![](<../../.gitbook/assets/image (211).png>)
 
 #### Додатково: Запрограмувати Агента, щоб він рив ями по квадрату
 
-![](<../../.gitbook/assets/image (185).png>)
+![](<../../.gitbook/assets/image (225).png>)
 
 #### Завдання:
 
 Зробити так, щоб герой розміщував за собою тортики, а агент йшов за героєм і збирав деякі тортики
 
-![](<../../.gitbook/assets/image (165).png>)
+![](<../../.gitbook/assets/image (189).png>)
 
 #### **Кахут:**
 
@@ -64,4 +64,4 @@
 
 запрограмувати Агента на побудову фонтану
 
-![](<../../.gitbook/assets/image (166).png>)
+![](<../../.gitbook/assets/image (191).png>)

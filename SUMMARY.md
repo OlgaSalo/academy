@@ -18,6 +18,8 @@
     * [Урок 03. Спільна робота](programming-for-kids/minecraft-education/lesson-03.-spilna-robota.md)
     * [Урок 04. Програмний код](programming-for-kids/minecraft-education/lesson-04.-programnyi-kod.md)
     * [Урок 05. Садимо грядки з Агентом](programming-for-kids/minecraft-education/lesson-05.-sadymo-gryadky.md)
+    * [Урок 06. Руйнування. Тривимірні координати](programming-for-kids/minecraft-education/lesson-06.-ruinuvannya-tryvymirni-koordynaty.md)
+    * [Урок 07. Живі істоти](programming-for-kids/minecraft-education/lesson-07.-zhyvi-istoty.md)
     * [Урок 2. Сад](programming-for-kids/minecraft-education/untitled.md)
     * [Урок 3. Вкладені квадрати](programming-for-kids/minecraft-education/urok-3.-vkladeni-kvadrati.md)
     * [Урок 4. Піраміда](programming-for-kids/minecraft-education/urok-4.-piramida.md)

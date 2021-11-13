@@ -1,0 +1,68 @@
+# Урок 07. Живі істоти
+
+* Будування будинку одним кодом з дверима, вікнами, підсвіткою, дахом і табличкою
+* Створюємо живі істоти
+
+#### Заповнення пустотою
+
+![](<../../.gitbook/assets/image (172).png>)
+
+#### Побудова приватного будинку
+
+![](<../../.gitbook/assets/image (210).png>)
+
+#### Добудовуємо вікно
+
+![](<../../.gitbook/assets/image (149).png>)
+
+#### Два вікна
+
+![](<../../.gitbook/assets/image (215).png>)
+
+![](<../../.gitbook/assets/image (193).png>)
+
+#### Двері
+
+по блокам
+
+![](<../../.gitbook/assets/image (173).png>)
+
+![](<../../.gitbook/assets/image (166).png>)
+
+#### Ліхтар
+
+![](<../../.gitbook/assets/image (157).png>)
+
+#### Табличка біля будинку
+
+![](<../../.gitbook/assets/image (208).png>)
+
+#### Темний дах
+
+![](<../../.gitbook/assets/image (227).png>)
+
+#### Красивий дах
+
+![](<../../.gitbook/assets/image (165).png>)
+
+![](<../../.gitbook/assets/image (154).png>)
+
+#### Дах пірамідкою
+
+![](<../../.gitbook/assets/image (230).png>)
+
+Можна побудувати у повітрі
+
+![](<../../.gitbook/assets/image (226).png>)
+
+#### Кахут:
+
+{% embed url="https://create.kahoot.it/share/minecraft-7/4d21df5c-b1fe-43e5-b546-af9a99e8b175" %}
+
+#### Домашнє завдання:
+
+“Замуруємо” Агента в будинку
+
+І використання координат Світу
+
+![](<../../.gitbook/assets/image (171).png>)

@@ -8,9 +8,9 @@
 
 Використовуємо блоки Basic i Гравець
 
-![](<../../.gitbook/assets/image (151).png>)
+![](<../../.gitbook/assets/image (160).png>)
 
-![](<../../.gitbook/assets/image (159).png>)
+![](<../../.gitbook/assets/image (179).png>)
 
 #### Агент - ваш помічник і виконує завдання
 
@@ -18,55 +18,55 @@
 
 Програма говоритиме про помилку
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../../.gitbook/assets/image (176).png>)
 
 #### Агенту команди
 
-![](<../../.gitbook/assets/image (168).png>)
+![](<../../.gitbook/assets/image (195).png>)
 
 #### Додаємо інвентар та саджаємо дерево
 
-![](<../../.gitbook/assets/image (162).png>)
+![](<../../.gitbook/assets/image (185).png>)
 
 #### Більше дерев
 
-![](<../../.gitbook/assets/image (152).png>)
+![](<../../.gitbook/assets/image (161).png>)
 
 #### Цілий ряд дерев
 
-![](<../../.gitbook/assets/image (154).png>)
+![](<../../.gitbook/assets/image (169).png>)
 
 #### Два ряди перпендикулярно
 
-![](<../../.gitbook/assets/image (184).png>)
+![](<../../.gitbook/assets/image (220).png>)
 
 #### Дерева по периметру квадрата
 
-![](<../../.gitbook/assets/image (177).png>)
+![](<../../.gitbook/assets/image (206).png>)
 
 #### Коротший
 
-![](<../../.gitbook/assets/image (173).png>)
+![](<../../.gitbook/assets/image (201).png>)
 
 #### Заповнюємо
 
-![](<../../.gitbook/assets/image (170).png>)
+![](<../../.gitbook/assets/image (197).png>)
 
 #### 2 спосіб: одразу саджаємо по рядам
 
 1 ряд
 
-![](<../../.gitbook/assets/image (178).png>)
+![](<../../.gitbook/assets/image (209).png>)
 
 #### 2 ряди
 
 Насипати костної муки
 
-![](<../../.gitbook/assets/image (186).png>)
+![](<../../.gitbook/assets/image (229).png>)
 
 #### Агент будує стіну під час руху “На ходу”
 
-![](<../../.gitbook/assets/image (150).png>)
+![](<../../.gitbook/assets/image (155).png>)
 
 #### Кахут:
 
