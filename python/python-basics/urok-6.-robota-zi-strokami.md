@@ -20,7 +20,7 @@ A string is a sequence of characters.In Python, strings come with a powerful set
 
 Для создания строк можно воспользоваться одинарными или двойными кавычками:
 
-```text
+```
 this_is_string = "Hi there!"
  
 the_same_string = 'Hi there!'
@@ -28,9 +28,9 @@ the_same_string = 'Hi there!'
 this_is_string == the_same_string  # True
 ```
 
-Но что делать, если нам нужен текст с переносами строк \(когда в тексте более одной строки\)? Для этого можно воспользоваться тройным повторением кавычек:
+Но что делать, если нам нужен текст с переносами строк (когда в тексте более одной строки)? Для этого можно воспользоваться тройным повторением кавычек:
 
-```text
+```
 text = """This is first line
 And second line
 Last third line"""
@@ -47,13 +47,13 @@ In a one horse open sleigh'''
 
 Обратная ситуация, у вас есть длинная строка, которая не должна содержать переносов, но в коде её неудобно отобразить одной строкой.
 
-```text
+```
 one_line_text = "Textual data in Python is handled with str objects, or strings. Strings are immutable sequences of Unicode code points. String literals are written in a variety of ways: single quotes, double quotes, triple quoted.
 ```
 
 Чтобы структурировать код и не добавлять лишних переносов вы можете разбить одну строковую переменную на несколько частей:
 
-```text
+```
 one_line_text = "Textual data in Python is handled with str objects, or strings. "\
             	"Strings are immutable sequences of Unicode code points. "\
             	"String literals are written in a variety of ways."
@@ -64,11 +64,11 @@ one_line_text = "Textual data in Python is handled with str objects, or strings.
 
 `one_line_text` в обоих примерах будет содержать один и тот же текст без переносов.
 
-### The str\(\) Constructor
+### The str() Constructor
 
-You can convert almost any object in Python to a string using a type constructor called str\(\)
+You can convert almost any object in Python to a string using a type constructor called str()
 
-```text
+```
 # an integer to a string
 s = str(15)
 print(s)
@@ -85,7 +85,7 @@ You can access individual characters in a string using an index in square bracke
 
 You can also access a string by negative indexing. A negative string index counts from the end of the string.
 
-```text
+```
 # Indexing
 S = 'ABCDEFGHI'
 print(S[1])	# Prints B
@@ -101,7 +101,7 @@ print(S[-6])	# Prints D
 
 Створити строку, яка складається з імені і прізвища учня. Порівняти, чи перша літера імені співпадає з першою літерою прізвища і вивести відповідне повідомлення. При отриманні літери прізвища використати від’ємний індекс.
 
-```text
+```
 pip = 'Ivan Ivanov'
 first_name_start = pip[0]
 last_name_start = pip[-6]
@@ -117,13 +117,13 @@ if first_name_start == last_name_start :
 
 A segment of a string is called a slice and you can extract one by using a slice operator. A slice of a string is also a string.
 
-The slice operator \[n:m\] returns the part of the string from the “n-th” item to the “m-th” item, including the first but excluding the last.
+The slice operator \[n:m] returns the part of the string from the “n-th” item to the “m-th” item, including the first but excluding the last.
 
 ### **Практична робота**
 
 Визначте результат роботи функції slice, не запускаючи код
 
-```text
+```
 s = 'abcdefghijk'
 s[3:5]
 s[:6]
@@ -136,24 +136,24 @@ s[-1:-6:-2]
 
 ### **Modify a String**
 
-It is tempting to use the \[\] operator on the left side of an assignment, in order to convert a character into a string. for example:
+It is tempting to use the \[] operator on the left side of an assignment, in order to convert a character into a string. for example:
 
-```text
+```
 S = 'Hello, World!'
 S[0] = 'H'
 ```
 
-```text
+```
 TypeError: 'str' object does not support item assignment
 ```
 
-The reason for the error is that the strings are unchangeable \(immutable\) and because of which you cannot change the existing string. The best you can do is create a new string that is a variation of the original:
+The reason for the error is that the strings are unchangeable (immutable) and because of which you cannot change the existing string. The best you can do is create a new string that is a variation of the original:
 
 ### **String Concatenation**
 
 You can concatenate strings using the concatenation operator `+` or the augmented assignment operator `+=`
 
-```text
+```
 S = 'Hello,' + ' World!'
 print(S)
 # Hello, World!
@@ -161,7 +161,7 @@ print(S)
 
 You can replicate substrings in a string using the replication operator `*`
 
-```text
+```
 delimiter = '-' * 25
 print(delimiter)
  
@@ -173,21 +173,21 @@ print(s)
 
 Мы неоднократно упоминали символ переноса строки. Это один из "специальных" или "управляющих" символов. Управляющие символы — это символы переноса строки, табуляции, возврата каретки и другие символы, которые нельзя или неудобно ввести с клавиатуры.
 
-Для того, чтобы можно было вводить символы, которые с клавиатуры неудобно или нельзя ввести, придумали добавлять **экранирующий символ** '\' который обозначает, что следующий за ним знак надо воспринимать как специальный символ, а не буквально.
+Для того, чтобы можно было вводить символы, которые с клавиатуры неудобно или нельзя ввести, придумали добавлять **экранирующий символ** '\\' который обозначает, что следующий за ним знак надо воспринимать как специальный символ, а не буквально.
 
 Вот некоторые управляющие символы:
 
-| **Обозначение в коде** | **Описание** |
-| :--- | :--- |
-| **\n** | **Перевод строки** |
-| **\f** | **Перевод страницы** |
-| **\r** | **Возврат каретки** |
-| **\t** | **Горизонтальная табуляция** |
-| **\v** | **Вертикальная табуляция** |
+| **Обозначение в коде** | **Описание**                 |
+| ---------------------- | ---------------------------- |
+| **\n**                 | **Перевод строки**           |
+| **\f**                 | **Перевод страницы**         |
+| **\r**                 | **Возврат каретки**          |
+| **\t**                 | **Горизонтальная табуляция** |
+| **\v**                 | **Вертикальная табуляция**   |
 
 Например, текст с явным разбиением на строки:
 
-```text
+```
 jingle_bells = "Jingle bells, jingle bells\nJingle all the way\nOh, what fun it is to ride\nIn a one horse open sleigh"
 
 print(jingle_bells)
@@ -204,17 +204,17 @@ In a one horse open sleigh
 
 ### **Find String Length**
 
-To find the number of characters in a string, use [len\(\)](https://www.learnbyexample.org/python-len-function/) built-in function.
+To find the number of characters in a string, use [len()](https://www.learnbyexample.org/python-len-function/) built-in function.
 
-```text
+```
 S = 'Hello, World!'
 
 print(len(S))
 ```
 
-### count\(\) Method
+### count() Method
 
-The count\(\) method returns the number of times the substring sub appears in the [string](https://www.learnbyexample.org/python-string/).
+The count() method returns the number of times the substring sub appears in the [string](https://www.learnbyexample.org/python-string/).
 
 You can limit the search by specifying optional arguments start and end.
 
@@ -224,7 +224,7 @@ You can limit the search by specifying optional arguments start and end.
 
 To iterate over the characters of a string, use a simple [for loop](https://www.learnbyexample.org/python-for-loop/).
 
-```text
+```
 s = 'Hello, World!'
 for letter in s:
 	print(letter, end=' ')
@@ -232,33 +232,33 @@ for letter in s:
 
 ### **String Case Conversion**
 
-Python provides five methods to perform case conversion on the target string viz. [lower\(\)](https://www.learnbyexample.org/python-string-lower-method/), [upper\(\)](https://www.learnbyexample.org/python-string-upper-method/), [capitalize\(\)](https://www.learnbyexample.org/python-string-capitalize-method/), [swapcase\(\)](https://www.learnbyexample.org/python-string-swapcase-method/) and [title\(\)](https://www.learnbyexample.org/python-string-title-method/)
+Python provides five methods to perform case conversion on the target string viz. [lower()](https://www.learnbyexample.org/python-string-lower-method/), [upper()](https://www.learnbyexample.org/python-string-upper-method/), [capitalize()](https://www.learnbyexample.org/python-string-capitalize-method/), [swapcase()](https://www.learnbyexample.org/python-string-swapcase-method/) and [title()](https://www.learnbyexample.org/python-string-title-method/)
 
-```text
+```
 S = 'Hello, World!'
 print(S.lower())
 # Prints hello, world!
 ```
 
-```text
+```
 S = 'Hello, World!'
 print(S.upper())
 # Prints HELLO, WORLD!
 ```
 
-```text
+```
 S = 'Hello, World!'
 print(S.capitalize())
 # Prints Hello, world!
 ```
 
-```text
+```
 S = 'Hello, World!'
 print(S.swapcase())
 # Prints hELLO, wORLD!
 ```
 
-```text
+```
 S = 'hello, world!'
 print(S.title())
 # Prints Hello, World!
@@ -268,7 +268,7 @@ print(S.title())
 
 Для поиска некоторого символа или подстроки в строке можно воспользоваться методом `find`:
 
-```text
+```
 s = "Hi there!"
  
 start = 0
@@ -280,11 +280,11 @@ print(s.find("q"))  # -1
 
 Этот метод выводит индекс начала первого совпадения в строке `s` начиная с `start` до `end`. Если `start` и `end` не указаны, то с начала и до конца строки. Возвращает -1, если последовательность не найдена.
 
-The rfind\(\) method searches for the last occurrence of the specified substring sub and returns its index. If specified substring is not found, it returns -1.
+The rfind() method searches for the last occurrence of the specified substring sub and returns its index. If specified substring is not found, it returns -1.
 
 The optional arguments start and end are used to limit the search to a particular portion of the [string](https://www.learnbyexample.org/python-string/).
 
-```text
+```
 s = 'Some words'
 s.rfind('o')  # 6
 ```
@@ -293,7 +293,7 @@ s.rfind('o')  # 6
 
 Ввести довільне повідомлення з клавіатури. Якщо в повідомленні трапляються слова «купити», «продати», «реклама», то помітити це повідомлення як спам.
 
-```text
+```
 adv_words = ['купити', 'продати', 'реклама']
 user_text = input()
 not_found = -1
@@ -312,7 +312,7 @@ print(message)
 
 Частая ситуация, когда необходимо разбить строку на подстроки по некоторому символу, например, разбить текст на предложения по символу точки и пробела после точки, или предложение по словами.
 
-```text
+```
 s = "I am learning strings in Python. Some new methods got now."
 sentences = s.split(". ")
  
@@ -324,7 +324,7 @@ print(sentences[1]) # Some new methods got now.
 
 Ввести довільне речення з клавіатури і порахувати кількість слів.
 
-```text
+```
 s = input().split()
 print(s)
 print(len(s))
@@ -338,7 +338,7 @@ print(len(s))
 
 Для объединения нескольких строк в одну через некоторый разделитель используется метод `join`:
 
-```text
+```
 sentences = ["I am learning strings in Python", "Some new methods got now."]
 text = ". ".join(sentences)
 print(text) # I am learning strings in Python. Some new methods got now.
@@ -348,14 +348,14 @@ print(text) # I am learning strings in Python. Some new methods got now.
 
 Если нужно удалить лишние пробелы в начале и конце строки есть специальный метод `strip`:
 
-```text
+```
 clean = '   spacious   '.strip()
 print(clean)  # spacious
 ```
 
 Когда же нам надо заменить некоторую подстроку в строке мы можем воспользоваться методом `replace`:
 
-```text
+```
 dog_text = "All dogs bark like dogs."
 cat_text = dog_text.replace("dogs", "cats")
 print(cat_text) # All cats bark like cats.
@@ -367,7 +367,7 @@ print(cat_text) # All cats bark like cats.
 
 В этом примере картой соответствия выступает словарь map и в этой карте мы устанавливаем соответствие между символами 'з' и 'z', и 'ю', и 'u'.
 
-```text
+```
 map = {ord('з'): 'z', ord('ю'): 'u'}
 translated = 'зю'.translate(map)
 print(translated) # zu
@@ -378,22 +378,22 @@ print(translated) # zu
 In Python, there are three major ways to embed variables inside a string.
 
 * printf-style % String Formatting
-* str.format\(\) Built-in Method
+* str.format() Built-in Method
 * f-String Formatter
 
-```text
+```
 # printf-style % string formatting
 S = 'Мене звати %s. Мені %d років.' % ('Олег', 14)
 print(S)
 ```
 
-```text
+```
 # format() Built-in Method
 S = 'Мене звати {1}. Мені {0} років.'.format(14, 'Олег')
 print(S)
 ```
 
-```text
+```
 # f-String Formatter
 name = 'Олег'
 age = 14
@@ -405,7 +405,7 @@ print(S)
 
 Спецификация гораздо более сложный модификатор. С её помощью можно:
 
-* менять точность представления дробных чисел \(округлять до указанного количества знаков\);
+* менять точность представления дробных чисел (округлять до указанного количества знаков);
 
 `print('pi: {:0.6}'.format(3.1415))`
 
@@ -413,7 +413,7 @@ print(S)
 
 `print('"{}" "{:+}" "{:-}" "{: }"'.format(1, 2, -3, 4)) # "1" "+2" "-3" " 4"`
 
-* как выровнять положение элемента и чем \(какими символами\) дополнить;
+* как выровнять положение элемента и чем (какими символами) дополнить;
 
 `print("|{:<10}|{:*^10}|{:>10}|".format('left', 'center', 'right'))`
 
@@ -421,7 +421,7 @@ print(S)
 
 Вивести таблицю проданих за день товарів в наступному форматі: номер, назва, кількість, ціна.
 
-```text
+```
 elimiter = '-' * 80
 goods = [['Апельсин', 6, 150], ['Лимон', 8, 90], ['Картопля', 123, 445]]
  
@@ -445,7 +445,7 @@ print("|{:<62}|{:>15}|".format(' Продано всього', total_sum))
 print(delimiter)
 ```
 
-```text
+```
 --------------------------------------------------------------------------------
 |  №  |Товар                                   |       кількіть|       вартість|
 --------------------------------------------------------------------------------
@@ -460,5 +460,4 @@ print(delimiter)
 ### **Домашня робота**
 
 * Порахувати, яка літера найбільш часто зустрічається у вашому прізвищі
-* Ввести строку з клавіатури. Видалити з неї всі цифри.  
-
+* Ввести строку з клавіатури. Видалити з неї всі цифри. \

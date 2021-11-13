@@ -10,43 +10,44 @@
 
 ### **Презентація для заняття:**
 
-{% file src="../.gitbook/assets/frotnend\_urok1.pptx" caption="Урок 1. Знайомство з сайтами-конструкторами" %}
+{% file src="../.gitbook/assets/frotnend_urok1.pptx" %}
+Урок 1. Знайомство з сайтами-конструкторами
+{% endfile %}
 
-### Які бувають веб-сайти? \(\_\_хв\)
+### Які бувають веб-сайти? (\_\_хв)
 
 Показати приклади з Інтернету сайтів. Розібрати їх призначення:
 
-* інформаційні\[ [https://uk.wikipedia.org/](https://uk.wikipedia.org/)
+*   інформаційні\[ [https://uk.wikipedia.org/](https://uk.wikipedia.org)
 
-  \]\(
+    ]\(
 
-  [https://uk.wikipedia.org/](https://uk.wikipedia.org/)
+    [https://uk.wikipedia.org/](https://uk.wikipedia.org)
 
-  \)
-
-* ті, що продають \(товар, послугу, дію\) [https://rozetka.com.ua](https://rozetka.com.ua) [https://course.goiteens.ua/summer\_itschool](https://course.goiteens.ua/summer_itschool) [https://course.goiteens.ua/it\_marathon](https://course.goiteens.ua/it_marathon)
-* сервіси [https://hangouts.google.com/ ](https://hangouts.google.com/%20) 
-* соціальні мережі [https://www.facebook.com/ ](https://www.facebook.com/%20)
+    )
+* ті, що продають (товар, послугу, дію) [https://rozetka.com.ua](https://rozetka.com.ua) [https://course.goiteens.ua/summer\_itschool](https://course.goiteens.ua/summer\_itschool) [https://course.goiteens.ua/it\_marathon](https://course.goiteens.ua/it\_marathon)
+* сервіси [https://hangouts.google.com/ ](https://hangouts.google.com)&#x20;
+* соціальні мережі [https://www.facebook.com/ ](https://www.facebook.com)
 
 ### Завдання:
 
 Знайти три веб-сайти різних за призначенням, і відправити їх в чат із вказуванням типу веб-сайту.
 
-## Що таке лендінг? Які існують конструктори лендінгів? \(\_\_хв\)
+## Що таке лендінг? Які існують конструктори лендінгів? (\_\_хв)
 
 Лендінг - це сайт на якому користувачу пропонують здійснити тільки одну дію
 
 Конструктори:
 
-* Tilda [https://tilda.cc/ru/](https://tilda.cc/ru/) 
-* LPgenerator [https://lpgenerator.ru/](https://lpgenerator.ru/) 
-* Wix [https://ru.wix.com/](https://ru.wix.com/) 
+* Tilda [https://tilda.cc/ru/](https://tilda.cc/ru/)&#x20;
+* LPgenerator [https://lpgenerator.ru/](https://lpgenerator.ru)&#x20;
+* Wix [https://ru.wix.com/](https://ru.wix.com)&#x20;
 
 **Завдання:**
 
 Зареєструватись на Tilda
 
-## **Що таке прототип сайту?\(\_\_ хв\)**
+## **Що таке прототип сайту?(\_\_ хв)**
 
 Прототип — це базовий макет сайту, якій візуалізує розміщення всіх елементів та функцій.
 
@@ -54,15 +55,15 @@
 
 ### Завдання:
 
-Створити прототип власного сайту. Наповнити його інформацією \( за допомогою сервиса\).
+Створити прототип власного сайту. Наповнити його інформацією ( за допомогою сервиса).
 
 {% embed url="https://esk.one/" %}
 
 ### Контроль:
 
-1. Створений прототип \(доробити вдома\)
+1. Створений прототип (доробити вдома)
 2. Реєстрація на конструкторі
-3. Кахут \(створю і додам пізніше\)
+3. Кахут (створю і додам пізніше)
 
 ### **Зворотній зв'язок:**
 
@@ -72,4 +73,3 @@
 ### Завдання для самостійної роботи вдома:
 
 Доробити прототип сайту. Наповнити його інформацією та фото. Підібрати фон для сайту, або для його частин
-

@@ -4,7 +4,7 @@
 
 Отримати знання стосовно організації списків, їх структури, вбудованих функцій для їх обробки.
 
-### Актуалізація опорних знань
+### &#xD;Актуалізація опорних знань
 
 1. Змінні і типи даних, оголошення змінних
 2. Оператор перевірки умови if..else
@@ -18,14 +18,14 @@
 
 Список — **упорядоченный изменяемый** контейнер данных. Списки не диктуют разработчику тип данных, который можно поместить в этот контейнер и могут содержать любые типы данных в любом удобном порядке.
 
-A list is a sequence of values \(similar to an array in other programming languages but more versatile\). The values in a list are called items or sometimes elements.
+A list is a sequence of values (similar to an array in other programming languages but more versatile). The values in a list are called items or sometimes elements.
 
 The important properties of Python lists are as follows:
 
 * Lists are ordered – Lists remember the order of items inserted.
 * Accessed by index – Items in a list can be accessed using an index.
 * Lists can contain any sort of object – It can be [numbers](https://www.learnbyexample.org/python-numbers/), [strings](https://www.learnbyexample.org/python-string/), [tuples](https://www.learnbyexample.org/python-tuple/) and even other lists.
-* Lists are changeable \(mutable\) – You can change a list in-place, add new items, and delete or update existing items.
+* Lists are changeable (mutable) – You can change a list in-place, add new items, and delete or update existing items.
 
 Для создания пустого списка есть два способа:
 
@@ -37,7 +37,7 @@ The important properties of Python lists are as follows:
 
 `not_empty = [1, 2, 'user']`
 
-You can convert other data types to lists using Python’s [list\(\)](https://www.learnbyexample.org/python-list-function/) constructor.
+You can convert other data types to lists using Python’s [list()](https://www.learnbyexample.org/python-list-function/) constructor.
 
 ### Практична робота
 
@@ -49,7 +49,7 @@ You can convert other data types to lists using Python’s [list\(\)](https://ww
 
 `print(chars)`
 
- `numbers= list((1, 2, 3))`
+&#x20;`numbers= list((1, 2, 3))`
 
 `print(numbers)`
 
@@ -65,7 +65,7 @@ You can convert other data types to lists using Python’s [list\(\)](https://ww
 
 Самым полезным свойством упорядоченности является возможность доступа к элементам контейнера по индексу этого элемента в контейнере.
 
-![](../../.gitbook/assets/image%20%28139%29.png)
+![](<../../.gitbook/assets/image (139).png>)
 
 В Python синтаксис доступа по индексу выглядит так:
 
@@ -101,9 +101,9 @@ Similarly, you can access individual items in a nested list using multiple index
 
 The indexes for the items in a nested list are illustrated as below:
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](<../../.gitbook/assets/image (140).png>)
 
-```text
+```
 L = ['a', 'b', ['cc', 'dd', ['eee', 'fff']], 'g', 'h']
 
 print(L[2][2])
@@ -115,11 +115,11 @@ print(L[2][2][0])
 
 ### Использование методов объектов
 
-Объект в программировании — некоторая сущность в цифровом пространстве, обладающая определённым состоянием и поведением, имеющая определённые свойства \(атрибуты\) и операции над ними \(методы\).
+Объект в программировании — некоторая сущность в цифровом пространстве, обладающая определённым состоянием и поведением, имеющая определённые свойства (атрибуты) и операции над ними (методы).
 
 Доступ к методам объектов в Python синтаксически происходит с помощью символа точки после имени объекта и указания имени метода или атрибута к которому нужно получить доступ.
 
-```text
+```
 numbers = ['a', 'b']
 numbers.append('c')
 print(numbers)  # ['a', 'b', 'c']
@@ -127,9 +127,9 @@ print(numbers)  # ['a', 'b', 'c']
 
 В этом примере мы использовали метод append, который есть у списков и он есть у списка `numbers`. Этот метод добавляет новый элемент в конец списка. В качестве аргумента этот метод получает элемент, который надо добавить в список. Аргументы указываются в скобках.
 
-Если метод не требует аргументов \(например метод clear\), то скобки будут пустыми:
+Если метод не требует аргументов (например метод clear), то скобки будут пустыми:
 
-```text
+```
 num = [1, 2]
 num.clear()
 print(num)  # []
@@ -139,7 +139,7 @@ print(num)  # []
 
 Добавление элемента в конец списка: `my_list.append(element)`
 
-```text
+```
 chars = ['a', 'b']
 chars.append('c')
 print(chars)  # ['a', 'b', 'c']
@@ -147,7 +147,7 @@ print(chars)  # ['a', 'b', 'c']
 
 удаление элемента из списка, вызовет ошибку если такого элемента нет в списке: `my_list.remove(element)`
 
-```text
+```
 chars = ['a', 'b']
 chars.remove('b')
 print(chars)  # ['a']
@@ -155,9 +155,9 @@ print(chars)  # ['a']
 
 But keep in mind that if more than one instance of the given item is present in the list, then this method removes only the first instance.
 
-Вернуть i-ый элемент и удалить его из списка i\_element = my\_list.pop\(i\). По-умолчанию i = -1
+Вернуть i-ый элемент и удалить его из списка i\_element = my\_list.pop(i). По-умолчанию i = -1
 
-```text
+```
 chars = ['a', 'b']
 last = chars.pop(1)
 print(chars)  # ['a']
@@ -166,15 +166,15 @@ print(last)  # 'b'
 
 If you don’t need the removed value, use the del statement.
 
-```text
+```
 chars = ['a', 'b']
 del chars[1]
 print(chars)  # ['a']
 ```
 
-Расширить список a\_list элементами из b\_list: a\_list.extend\(b\_list\)
+Расширить список a\_list элементами из b\_list: a\_list.extend(b\_list)
 
-```text
+```
 chars = ['a', 'b']
 numbers = [1, 2]
  
@@ -182,55 +182,55 @@ chars.extend(numbers)
 print(chars)  # ['a', 'b', 1, 2]
 ```
 
-Вставить x на на позицию с индексом i: my\_list.insert\(i, x\)
+Вставить x на на позицию с индексом i: my\_list.insert(i, x)
 
-```text
+```
 chars = ["a", "b"]
 chars.insert(1, "c")
 print(chars)  # ['a', 'c', 'b']
 ```
 
-Очистить список: my\_list.clear\(\)
+Очистить список: my\_list.clear()
 
-```text
+```
 chars = ['a', 'b']
 last =  chars.clear() print(chars) # []
 ```
 
-Найти индекс первого элемента в списке равного x: index = my\_list.index\(x\)
+Найти индекс первого элемента в списке равного x: index = my\_list.index(x)
 
-```text
+```
 chars = ['a', 'b', 'c', 'd']
 c_ind = chars.index('c') print(c_ind) #2
 ```
 
-Вернуть количество элементов в списке равных x: x\_number = my\_list.count\(x\)
+Вернуть количество элементов в списке равных x: x\_number = my\_list.count(x)
 
-```text
+```
 chars = ['a', 'b', 'c', 'a']
 a_count = chars.count('a')
 print(a_count) # 2
 ```
 
-Отсортировать список по возрастанию: my\_list.sort\(key=None, reverse=False\)
+Отсортировать список по возрастанию: my\_list.sort(key=None, reverse=False)
 
-```text
+```
 chars = ['z', 'a', 'b']
 chars.sort()
 print(chars) # ['a', 'b', 'z']
 ```
 
-Поменять порядок элементов в списке на обратный: my\_list.reverse\(\)
+Поменять порядок элементов в списке на обратный: my\_list.reverse()
 
-```text
+```
 chars = ['a', 'b']
 chars.reverse()
 print(chars) # ['b', 'a']
 ```
 
-Вернуть копию списка: copy\_of\_my\_list = my\_list.copy\(\)
+Вернуть копию списка: copy\_of\_my\_list = my\_list.copy()
 
-```text
+```
 chars =  ['a', 'b']
 chars_copy = chars.copy()
 chars == chars_copy # True
@@ -238,9 +238,9 @@ chars == chars_copy # True
 
 Find List Length
 
-To find the number of items in a list, use len\(\) method.
+To find the number of items in a list, use len() method.
 
-```text
+```
 chars = ['a', 'b']
 print(len(chars)) # 2
 ```
@@ -249,7 +249,7 @@ Check if item exists in a list
 
 To determine whether a value is or isn’t in a list, you can use in and not in operators with [if statement](https://www.learnbyexample.org/python-if-else-elif-statement/).
 
-```text
+```
 chars = ['a', 'b']
 if 'a' in chars:
     print('yes')
@@ -262,7 +262,7 @@ if 'www' not in chars:
 
 The most common way to iterate through a list is with a [for loop](https://www.learnbyexample.org/python-for-loop/).
 
-```text
+```
 chars = ['a', 'b', 'c']
  
 for item in chars:
@@ -273,14 +273,14 @@ for item in chars:
 
 Уявимо, що ми розробляємо інформаційну систему продуктового магазину, яка має виконувати наступні функції
 
-* Показ всіх наявних товарів \(виведення елементів списку\)
-* Постачання нових товарів \(додавання елементів, об’єднання списків\)
-* Продаж товарів \(пошук елементу списку і видалення його\)
-* Заміна проданих продуктів на нові \(вставка елементу\)
+* Показ всіх наявних товарів (виведення елементів списку)
+* Постачання нових товарів (додавання елементів, об’єднання списків)
+* Продаж товарів (пошук елементу списку і видалення його)
+* Заміна проданих продуктів на нові (вставка елементу)
 * Виведення списку проданих продуктів за день
-* Показати історію продажів \(виведення списку в зворотньому порядку\)
+* Показати історію продажів (виведення списку в зворотньому порядку)
 
-```text
+```
 products = ['Апельсин', 'Банан']
 products_sold = list()
  
@@ -357,4 +357,3 @@ for product in products_sold:
 
 * Створити список материків західної півкулі. Доповнити список материками зі східної півкулі. Відсортувати материки за алфавітом і вивести на екран
 * Створити список, елементами якого є інші списки, що містять інформацію про ім’я та прізвище студентів. Порахувати скільки людей мають ім’я «Андрій»
-
