@@ -13,7 +13,7 @@
 
 #### Добудовуємо вікно
 
-![](<../../.gitbook/assets/image (149).png>)
+![](<../../.gitbook/assets/image (149) (1).png>)
 
 #### Два вікна
 
@@ -27,7 +27,7 @@
 
 ![](<../../.gitbook/assets/image (173).png>)
 
-![](<../../.gitbook/assets/image (166) (1).png>)
+![](<../../.gitbook/assets/image (166) (1) (1).png>)
 
 #### Ліхтар
 
@@ -43,7 +43,7 @@
 
 #### Красивий дах
 
-![](<../../.gitbook/assets/image (165).png>)
+![](<../../.gitbook/assets/image (165) (1).png>)
 
 ![](<../../.gitbook/assets/image (154).png>)
 
@@ -53,7 +53,7 @@
 
 Можна побудувати у повітрі
 
-![](<../../.gitbook/assets/image (226).png>)
+![](<../../.gitbook/assets/image (226) (1).png>)
 
 #### Кахут:
 

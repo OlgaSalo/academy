@@ -58,11 +58,11 @@
 
 ![](<../../.gitbook/assets/image (159) (1).png>)
 
-![](<../../.gitbook/assets/image (167).png>)
+![](<../../.gitbook/assets/image (167) (1).png>)
 
 #### 5 шарів і телепортуємось на вершину
 
-![](<../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image (181) (1).png>)
 
 ![](<../../.gitbook/assets/image (222).png>)
 
@@ -88,6 +88,6 @@
 
 #### Відповідь (для викладача):
 
-![](<../../.gitbook/assets/image (198).png>)
+![](<../../.gitbook/assets/image (198) (1).png>)
 
 ![](<../../.gitbook/assets/image (190) (1).png>)
