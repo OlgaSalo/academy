@@ -6,7 +6,7 @@
 
 #### МегаСтрибок з використанням координат
 
-![](<../../.gitbook/assets/image (218).png>)
+![](<../../.gitbook/assets/image (218) (1).png>)
 
 #### Падіння героя
 
@@ -16,7 +16,7 @@
 
 В одну лінію за гравцем
 
-![](<../../.gitbook/assets/image (152).png>)
+![](<../../.gitbook/assets/image (152) (1).png>)
 
 #### Блоки для заповнення
 
@@ -56,7 +56,7 @@
 
 #### Три шари
 
-![](<../../.gitbook/assets/image (159).png>)
+![](<../../.gitbook/assets/image (159) (1).png>)
 
 ![](<../../.gitbook/assets/image (167).png>)
 
@@ -72,7 +72,7 @@
 
 ![](<../../.gitbook/assets/image (156).png>)
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../../.gitbook/assets/image (158) (1).png>)
 
 #### Кахут:
 

@@ -8,7 +8,7 @@
 
 Використовуємо блоки Basic i Гравець
 
-![](<../../.gitbook/assets/image (160).png>)
+![](<../../.gitbook/assets/image (160) (1).png>)
 
 ![](<../../.gitbook/assets/image (179).png>)
 
@@ -34,7 +34,7 @@
 
 #### Цілий ряд дерев
 
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (169) (1).png>)
 
 #### Два ряди перпендикулярно
 
@@ -42,11 +42,11 @@
 
 #### Дерева по периметру квадрата
 
-![](<../../.gitbook/assets/image (206).png>)
+![](<../../.gitbook/assets/image (206) (1).png>)
 
 #### Коротший
 
-![](<../../.gitbook/assets/image (201).png>)
+![](<../../.gitbook/assets/image (201) (1).png>)
 
 #### Заповнюємо
 

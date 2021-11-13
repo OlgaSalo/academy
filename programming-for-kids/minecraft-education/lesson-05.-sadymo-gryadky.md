@@ -16,13 +16,13 @@
 
 Та удосконалити попередню програму
 
-![](<../../.gitbook/assets/image (202).png>)
+![](<../../.gitbook/assets/image (202) (1).png>)
 
 **Відповідь:**
 
 ![](<../../.gitbook/assets/image (219).png>)
 
-![](<../../.gitbook/assets/image (183).png>)
+![](<../../.gitbook/assets/image (183) (1).png>)
 
 #### Завдання: запрограмувати Агента на саджання такого саду:
 
