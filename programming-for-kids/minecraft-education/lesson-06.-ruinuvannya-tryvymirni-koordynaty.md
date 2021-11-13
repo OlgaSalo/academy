@@ -28,9 +28,9 @@
 
 ![](<../../.gitbook/assets/image (168).png>)
 
-![](<../../.gitbook/assets/image (162).png>)
+![](<../../.gitbook/assets/image (162) (1).png>)
 
-![](<../../.gitbook/assets/image (207).png>)
+![](<../../.gitbook/assets/image (207) (1).png>)
 
 ![](<../../.gitbook/assets/image (213).png>)
 
@@ -40,7 +40,7 @@
 
 Всередині заповнений блоками
 
-![](<../../.gitbook/assets/image (192).png>)
+![](<../../.gitbook/assets/image (192) (1).png>)
 
 #### Будуємо піраміду
 
@@ -70,7 +70,7 @@
 
 ![](<../../.gitbook/assets/image (182).png>)
 
-![](<../../.gitbook/assets/image (156).png>)
+![](<../../.gitbook/assets/image (156) (1).png>)
 
 ![](<../../.gitbook/assets/image (158) (1).png>)
 
@@ -90,4 +90,4 @@
 
 ![](<../../.gitbook/assets/image (198).png>)
 
-![](<../../.gitbook/assets/image (190).png>)
+![](<../../.gitbook/assets/image (190) (1).png>)

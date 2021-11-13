@@ -17,9 +17,9 @@
 
 #### Два вікна
 
-![](<../../.gitbook/assets/image (215).png>)
+![](<../../.gitbook/assets/image (215) (1).png>)
 
-![](<../../.gitbook/assets/image (193).png>)
+![](<../../.gitbook/assets/image (193) (1).png>)
 
 #### Двері
 
@@ -39,7 +39,7 @@
 
 #### Темний дах
 
-![](<../../.gitbook/assets/image (227).png>)
+![](<../../.gitbook/assets/image (227) (1).png>)
 
 #### Красивий дах
 
