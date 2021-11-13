@@ -22,6 +22,7 @@
     * [Урок 07. Живі істоти](programming-for-kids/minecraft-education/lesson-07.-zhyvi-istoty.md)
     * [Урок 08. Акваріум](programming-for-kids/minecraft-education/lesson-08.-akvarium.md)
     * [Урок 09. Створення мобів](programming-for-kids/minecraft-education/lesson-09.-stvorennya-mpbiv.md)
+    * [Урок 10. Загін з папугами](programming-for-kids/minecraft-education/lesson-10.-zagin-z-papugamy.md)
     * [Урок 2. Сад](programming-for-kids/minecraft-education/untitled.md)
     * [Урок 3. Вкладені квадрати](programming-for-kids/minecraft-education/urok-3.-vkladeni-kvadrati.md)
     * [Урок 4. Піраміда](programming-for-kids/minecraft-education/urok-4.-piramida.md)

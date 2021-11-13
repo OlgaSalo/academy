@@ -31,7 +31,7 @@
 
 #### Ліхтар
 
-![](<../../.gitbook/assets/image (157).png>)
+![](<../../.gitbook/assets/image (157) (1).png>)
 
 #### Табличка біля будинку
 
@@ -65,4 +65,4 @@
 
 І використання координат Світу
 
-![](<../../.gitbook/assets/image (171).png>)
+![](<../../.gitbook/assets/image (171) (1).png>)

@@ -44,7 +44,7 @@
 
 #### Будуємо піраміду
 
-![](<../../.gitbook/assets/image (221).png>)
+![](<../../.gitbook/assets/image (221) (1).png>)
 
 ![](<../../.gitbook/assets/image (177).png>)
 

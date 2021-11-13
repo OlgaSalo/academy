@@ -34,7 +34,7 @@
 
 Дописати код
 
-![](<../../.gitbook/assets/image (217).png>)
+![](<../../.gitbook/assets/image (217) (1).png>)
 
 ![](<../../.gitbook/assets/image (151).png>)
 
@@ -42,7 +42,7 @@
 
 Сіємо кавуни
 
-![](<../../.gitbook/assets/image (170).png>)
+![](<../../.gitbook/assets/image (170) (1).png>)
 
 ![](<../../.gitbook/assets/image (211).png>)
 
