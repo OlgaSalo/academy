@@ -6,11 +6,11 @@
 
 #### Створення Мобів: згори прилітають кури
 
-![](<../../.gitbook/assets/image (192).png>)
+![](<../../.gitbook/assets/image (193).png>)
 
 ![](<../../.gitbook/assets/image (225).png>)
 
-![](<../../.gitbook/assets/image (194).png>)
+![](<../../.gitbook/assets/image (196).png>)
 
 ![](<../../.gitbook/assets/image (215).png>)
 
@@ -20,7 +20,7 @@
 
 #### Завдання: через код посадити сад та позмістити там різних тварин
 
-![](<../../.gitbook/assets/image (193).png>)
+![](<../../.gitbook/assets/image (194).png>)
 
 ![](<../../.gitbook/assets/image (164).png>)
 

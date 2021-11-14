@@ -50,7 +50,7 @@
 
 #### Далі піраміда
 
-![](<../../.gitbook/assets/image (163).png>)
+![](<../../.gitbook/assets/image (163) (1).png>)
 
 ![](<../../.gitbook/assets/image (187).png>)
 
