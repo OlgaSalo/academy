@@ -27,7 +27,7 @@
 
 ![](<../../.gitbook/assets/image (173).png>)
 
-![](<../../.gitbook/assets/image (166) (1) (1).png>)
+![](<../../.gitbook/assets/image (166) (1) (1) (1).png>)
 
 #### Ліхтар
 
