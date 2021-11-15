@@ -16,7 +16,7 @@
 
 ![](<../../.gitbook/assets/Minecraft Education Edition1 (3).jpg>)
 
-### Дублируем блок повторения размещения блока 4 раза
+### ДублируеУрокм блок повторения размещения блока 4 раза
 
 ![](<../../.gitbook/assets/Minecraft Education Edition2 (3).jpg>)
 
@@ -31,6 +31,8 @@
 ![](<../../.gitbook/assets/Minecraft Education Edition5 (3).jpg>)
 
 ## 2. Создание квадрата вложенными циклами
+
+
 
 ### Дублируем квадрат из 4-х циклов (команда lines)
 
