@@ -1,12 +1,10 @@
-# Урок 2. Сад
-
-### Мета заняття:
+# Урок 18. Сад
 
 ## Повторення.
 
-[Кахут на розуміння орієнтції в грі](https://create.kahoot.it/share/minecraft-2/2319195d-9fee-4d6d-9516-7c368a8b89f8)
+{% embed url="https://create.kahoot.it/share/minecraft-2/f415da7e-a208-421f-9522-863acef24353" %}
 
-[Кахут. Прості команди на будівництво](https://create.kahoot.it/share/minecraft-4/ece3aef7-a443-485b-85ab-783d1ca76e20)
+{% embed url="https://create.kahoot.it/share/minecraft-4/8924287c-149d-4bcf-8aa9-6eb2b2d5e2b7" %}
 
 ## Відмінність блоків від квітів.
 
