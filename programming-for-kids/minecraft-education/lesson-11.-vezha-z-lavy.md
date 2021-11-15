@@ -62,7 +62,7 @@
 
 ![](<../../.gitbook/assets/image (195).png>)
 
-![](<../../.gitbook/assets/image (163).png>)
+![](<../../.gitbook/assets/image (163) (1).png>)
 
 #### Відповідь:
 
