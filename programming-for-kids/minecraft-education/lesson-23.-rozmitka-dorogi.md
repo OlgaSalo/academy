@@ -1,4 +1,4 @@
-# Урок 7. Розмітка дороги
+# Урок 23. Розмітка дороги
 
 ## Разметка дороги.
 
@@ -76,4 +76,6 @@
 
 ![](<../../.gitbook/assets/image (39).png>)
 
-[Ссылка на код](https://makecode.com/\_RXUVziMhwbYq)
+#### Ссылка на код:
+
+{% embed url="https://minecraft.makecode.com/58159-67584-53244-79862" %}
