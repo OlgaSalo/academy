@@ -18,9 +18,6 @@
 
 ### Дублируем блок повторения размещения блока 4 раза
 
-\
-
-
 ![](<../../.gitbook/assets/Minecraft Education Edition2 (3).jpg>)
 
 ![](<../../.gitbook/assets/Minecraft Education Edition3 (3).jpg>)
@@ -48,9 +45,6 @@
 ![](<../../.gitbook/assets/Minecraft Education Edition2 (4).jpg>)
 
 ### Убираем и удаляем блоки, которые повторяются
-
-\
-
 
 ![](<../../.gitbook/assets/Minecraft Education Edition3 (4).jpg>)
 
@@ -100,7 +94,7 @@
 
 ![](<../../.gitbook/assets/Minecraft Education Edition7 (3).jpg>)
 
-[https://makecode.com/\_dkchPyFo80pH](https://makecode.com/\_dkchPyFo80pH)
+{% embed url="https://makecode.com/_dkchPyFo80pH" %}
 
 ## 4. Создание пирамиды
 
@@ -111,19 +105,11 @@
 
 ![](<../../.gitbook/assets/Minecraft Education Edition1 (5).jpg>)
 
-[https://makecode.com/\_AeLi9wEtkMbX](https://makecode.com/\_AeLi9wEtkMbX)
+{% embed url="https://makecode.com/_AeLi9wEtkMbX" %}
 
 ## 5. Линия заданной длинны
 
-Удобно, когда мы можем из чата создать линию такой длины, которая нам необходима. \
-\
-\
-\
-\
-\
-\
-\
-
+Удобно, когда мы можем из чата создать линию такой длины, которая нам необходима.&#x20;
 
 ![](<../../.gitbook/assets/Minecraft Education Edition.jpg>)
 
@@ -149,11 +135,6 @@ _Задания:_\
 ## 6. Прямоугольник c параметрами
 
 Задайте размер прямоугольника с помощью параметра.\
-\
-\
-\
-\
-\
 
 
 ![](<../../.gitbook/assets/Minecraft Education Edition (4).jpg>)
