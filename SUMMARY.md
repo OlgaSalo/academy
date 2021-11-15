@@ -24,6 +24,7 @@
     * [Урок 09. Створення мобів](programming-for-kids/minecraft-education/lesson-09.-stvorennya-mpbiv.md)
     * [Урок 10. Загін з папугами](programming-for-kids/minecraft-education/lesson-10.-zagin-z-papugamy.md)
     * [Урок 11. Вежа з лави. Геймплей](programming-for-kids/minecraft-education/lesson-11.-vezha-z-lavy.md)
+    * [Урок 12. Гра "Лабіринт" та 3D-те](programming-for-kids/minecraft-education/urok-12.-gra-labirint-ta-3d-te.md)
     * [Урок 2. Сад](programming-for-kids/minecraft-education/untitled.md)
     * [Урок 3. Вкладені квадрати](programming-for-kids/minecraft-education/urok-3.-vkladeni-kvadrati.md)
     * [Урок 4. Піраміда](programming-for-kids/minecraft-education/urok-4.-piramida.md)
