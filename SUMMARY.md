@@ -86,6 +86,8 @@
   * [Урок 30. Препроцесори SASS/SCSS - міксіни та імпорт файлів.](front-end/urok-30.-preprocesori-sass-scss-miksini-ta-import-failiv..md)
   * [Урок 31. Практика (SCSS)](front-end/urok-31.-praktika-scss.md)
   * [Урок 32. Верстка мобільного меню](front-end/urok-32.-verstka-mobilnogo-menyu.md)
+* [JavaScript. Basics](javascript.-basics/README.md)
+  * [Урок 1. Що таке JS. Змінні. Консоль.](javascript.-basics/urok-1.-sho-take-js.-zminni.-konsol..md)
 * [PYTHON](python/README.md)
   * [Python:Basics](python/python-basics/README.md)
     * [Вступ. Що таке Python?](python/python-basics/vstup.-sho-take-python.md)
